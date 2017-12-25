@@ -9,4 +9,7 @@ study desine pattern repository
 デザインパターンを勉強するためのリポジトリです.
 
 ## Studying_Design_Pattern_List
-- Iterator
+- [Iterator](./Iterator/)
+
+## License
+- MIT
